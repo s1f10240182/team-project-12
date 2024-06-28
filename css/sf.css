@@ -4,3 +4,19 @@ h1{
 h2{
     text-align: center;
 }
+body{
+    background-color: rgb(181, 219, 253);
+}
+ul{
+    background-color: aliceblue;
+}
+p.pic img{
+    width: 200px;
+    height: 250px;
+}
+h3{
+    background-color: aliceblue;
+}
+p1{
+    margin:;
+}
